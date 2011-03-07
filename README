@@ -3,4 +3,8 @@ hello~!!~
 push
 
 tag test
+<<<<<<< HEAD
 bye!!!
+=======
+bye!
+>>>>>>> 58ee526fe0c74526a452a2bf466d9986370eb79c
